@@ -7,10 +7,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
   [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/radowanislam/)
+
+  ![Build Status](https://github.com/username/repo/actions/workflows/tests.yml/badge.svg)
   
 </div>
-![Build Status](https://github.com/username/repo/actions/workflows/tests.yml/badge.svg)
-
 ---
 
 ## 🚀 About Me
