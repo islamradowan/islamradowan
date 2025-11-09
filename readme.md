@@ -68,11 +68,11 @@ class Developer {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamradowan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamradowan&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islamradowan&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -118,6 +118,6 @@ I'm always interested in collaborating on Laravel projects or discussing web dev
   
   ### ⭐️ Thanks for visiting! If you like my work, consider giving my repos a star ⭐️
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=islamradowan&color=blueviolet&style=for-the-badge)
 
 </div>
