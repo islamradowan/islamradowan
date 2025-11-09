@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-  [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]([https://www.fiverr.com/radowanislam/)
+  [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/radowanislam/)
   
 </div>
 
@@ -23,16 +23,16 @@
 <?php
 
 class Developer {
-    public string $name = "Your Name";
+    public string $name = "Radowan Islam";
     public array $skills = [
         'backend' => ['PHP', 'Laravel 10-12', 'MySQL', 'RESTful APIs'],
-        'frontend' => ['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript', 'Alpine.js'],
+        'frontend' => ['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript', 'Alpine.js', 'Vue.js'],
         'tools' => ['Git', 'Docker', 'Composer', 'VS Code', 'Postman'],
-        'learning' => ['Vue.js', 'React', 'Advanced Laravel Features']
+        'learning' => ['React', 'Advanced Laravel Features']
     ];
     
     public function currentFocus(): string {
-        return "Building scalable Laravel applications and growing my freelance business";
+        return "Building scalable Laravel applications";
     }
 }
 ```
