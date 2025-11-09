@@ -9,6 +9,7 @@
   [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/radowanislam/)
   
 </div>
+![Build Status](https://github.com/username/repo/actions/workflows/tests.yml/badge.svg)
 
 ---
 
