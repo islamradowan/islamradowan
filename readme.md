@@ -107,10 +107,10 @@ class Developer {
 
 I'm always interested in collaborating on Laravel projects or discussing web development. Feel free to reach out!
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** islamradowan@outlook.com  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](YOUR_LINKEDIN)  
 🌐 **Portfolio:** [yourportfolio.com](YOUR_PORTFOLIO)  
-💚 **Fiverr:** [Hire me on Fiverr](YOUR_FIVERR)
+💚 **Fiverr:** [Hire me on Fiverr](https://www.fiverr.com/radowanislam/)
 
 ---
 
